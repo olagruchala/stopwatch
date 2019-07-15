@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#stopwatch{
+    background-color: transparent;
+    height: 500px;
+    margin: 20px auto;
+    padding: 50px;
+}
+
+#panel{
+    padding: 10px;
+    text-align: center;
+}
+
+#startingNumber{
+    margin: 20px auto;
+    width: 100px;
+    text-align: center;
+}
